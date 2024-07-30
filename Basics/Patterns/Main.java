@@ -1,6 +1,6 @@
 class Patterns{
     public static void main(String[] args) {
-        Pattern5 pt = new Pattern5();
-        pt.pattern5();
+        Pattern6 pt = new Pattern6();
+        pt.pattern6();
     }
 }
