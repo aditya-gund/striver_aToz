@@ -32,6 +32,6 @@ public class Check_Is_Prime {
         return false;
     }
     public static void main(String[] args) {
-        System.out.println("Output: "+ isPrime(1485));
+        System.out.println("Output: "+ isPrime(11));
     }
 }
